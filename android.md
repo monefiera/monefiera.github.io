@@ -15,7 +15,7 @@ permalink: /android/
 - Sony Walkman A-Series 2019/NW-A106：音楽用機
 - LG V30+/L-01K：音楽用サブ機 ~~、ゆく育専用機~~
 - Xiaomi Redmi 9T/Lime：ROM焼き練習用サブ機
-##### 休養中端末
+以下は休養中端末になります。<br>
 - Lenovo Legion Tab Y700 2022/TB-9707F：前ゲーム機、諸事情で死亡のため治療中
 - ASUS Zenfone 4/ZE554KL：前メイン機、TYPE-C充電口が死んでるため修理検討
 - Samsung Galaxy S5 Active/SC-02G：前々メイン機、バッテリーが無いため封印中
