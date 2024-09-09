@@ -4,7 +4,7 @@ title: Risa Yuzuki
 permalink: /risa_yuzuki/
 ---
 
-<img src="./img/yuzu_risa.jpg" width="100%">
+<img src="./img/yuzu_risa.png" width="80%">
 [Images From muevo voice](https://media.muevo.jp/articles/8385)<br>
 
 ## Who is she?
