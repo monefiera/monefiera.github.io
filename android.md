@@ -14,7 +14,7 @@ permalink: /android/
 - Lenovo Legion Tab Y700 2023/TB320FC：ゲーム&学務用機
 - Sony Walkman A-Series 2019/NW-A106：音楽用機
 - LG V30+/L-01K：音楽用サブ機 ~~、ゆく育専用機~~
-- Xiaomi Redmi 9T/Lime：ROM焼き練習用サブ機
+- Xiaomi Redmi 9T/Lime：ROM焼き練習用サブ機<br>
 以下は休養中端末になります。<br>
 - Lenovo Legion Tab Y700 2022/TB-9707F：前ゲーム機、諸事情で死亡のため治療中
 - ASUS Zenfone 4/ZE554KL：前メイン機、TYPE-C充電口が死んでるため修理検討
