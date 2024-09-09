@@ -2,7 +2,8 @@ title: MONE FIERA OFFICIAL
 author: MONE FIERA, All rights reserved
 url: http://monefiera.github.io
 timezone: Japan/Tokyo
-logo: "/img/logo.png"
+logo: "/img/logo-mone.png"
+
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
