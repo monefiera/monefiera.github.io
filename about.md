@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="https://raw.githubusercontent.com/monefiera/monefiera.github.io/main/img/camping.png" width="60%">
+<img src="./img/camping.png" width="80%">
 
 ## Name
 MONE FIERA<br>
