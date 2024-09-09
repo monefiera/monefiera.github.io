@@ -26,18 +26,18 @@ permalink: /android/
 - [Twemoji Remastered](https://github.com/monefiera/Twemoji-Remastered)
 
 #### Contribute a Little
-- [piko-Revanced](https://github.com/crimera/piko)
+- [piko-Revanced](https://github.com/crimera/piko)<br>
 Homeアイコンを鳥籠に戻すパッチを追加、以前は各色毎のOrigin Twitterも作っていました
-- [treble_app](https://github.com/TrebleDroid/treble_app)
+- [treble_app](https://github.com/TrebleDroid/treble_app)<br>
 TB320FCの磁気カバースリーブ機能を有効化するプルリクをぶん投げ
-- [2019_android_walkman](https://github.com/notcbw/2019_android_walkman/)
+- [2019_android_walkman](https://github.com/notcbw/2019_android_walkman/)<br>
 ~~私に見つかった結果~~、日本語解説の作成など
 
 #### その他(note記事)
-- [使っているAndroid野良アプリ一覧](https://note.com/forsaken_love02/n/nd42186d4361a)
+- [使っているAndroid野良アプリ一覧](https://note.com/forsaken_love02/n/nd42186d4361a)<br>
 謎の人気を獲得した末遂にG社の「野良アプリ」検索サジェスト2位になってしまったやつ。<br>
 皆さん身体が野良アプリを求めているのはわかりますが…<br>
-- [使っているAndroidアプリ一覧 Playストア編](https://note.com/forsaken_love02/n/n2ec4209defb0)
+- [使っているAndroidアプリ一覧 Playストア編](https://note.com/forsaken_love02/n/n2ec4209defb0)<br>
 上記記事の続編。<br>
-- [Legion Y700シリーズ](https://note.com/forsaken_love02/m/m65b8ae03f30a)
+- [Legion Y700シリーズ](https://note.com/forsaken_love02/m/m65b8ae03f30a)<br>
 TB-9707F、TB320FCについていろいろ纏めたマニュアル的不定期連載マガジン。<br>
