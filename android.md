@@ -13,7 +13,7 @@ permalink: /android/
 - ASUS Zenfone 9/AI2202：永遠のメイン機
 - Lenovo Legion Tab Y700 2023/TB320FC：ゲーム&学務用機
 - Sony Walkman A-Series 2019/NW-A106：音楽用機
-- LG V30+/L-01K：音楽用サブ機~~、ゆく育専用機~~
+- LG V30+/L-01K：音楽用サブ機 ~~、ゆく育専用機~~
 - Xiaomi Redmi 9T/Lime：ROM焼き練習用サブ機
 ##### 休養中端末
 - Lenovo Legion Tab Y700 2022/TB-9707F：前ゲーム機、諸事情で死亡のため治療中
@@ -21,19 +21,19 @@ permalink: /android/
 - Samsung Galaxy S5 Active/SC-02G：前々メイン機、バッテリーが無いため封印中
 
 #### Magisk Module
-- [Lenovo Legion Tab GSI Fix](https://github.com/reindex-ot/LegionY700-GSI-Fix_MOD)
+- [Lenovo Legion Tab GSI Fix](https://github.com/monefiera/Lenovo-Legion-Tab-GSI-FIX)
 ##### EOL済みプロジェクト
-- [Twemoji Remastered](https://github.com/reindex-ot/LegionY700-GSI-Fix_MOD)
+- [Twemoji Remastered](https://github.com/monefiera/Twemoji-Remastered)
 
 #### Contribute a Little
-- [piko-Revanced](https://github.com/reindex-ot/LegionY700-GSI-Fix_MOD)
+- [piko-Revanced](https://github.com/crimera/piko)
 Homeアイコンを鳥籠に戻すパッチを追加、以前は各色毎のOrigin Twitterも作っていました
-- [treble_app](https://github.com/reindex-ot/LegionY700-GSI-Fix_MOD)
+- [treble_app](https://github.com/TrebleDroid/treble_app)
 TB320FCの磁気カバースリーブ機能を有効化するプルリクをぶん投げ
-- [2019_android_walkman](https://github.com/reindex-ot/LegionY700-GSI-Fix_MOD)
+- [2019_android_walkman](https://github.com/notcbw/2019_android_walkman/)
 ~~私に見つかった結果~~、日本語解説の作成など
 
-####その他(note記事)
+#### その他(note記事)
 - [使っているAndroid野良アプリ一覧](https://note.com/forsaken_love02/n/nd42186d4361a)
 謎の人気を獲得した末遂にG社の「野良アプリ」検索サジェスト2位になってしまったやつ。<br>
 皆さん身体が野良アプリを求めているのはわかりますが…<br>
