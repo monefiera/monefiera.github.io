@@ -1,0 +1,28 @@
+title: MONE FIERA OFFICIAL
+author: MONE FIERA, All rights reserved
+description: Powered by GitHub Pages & Jekyll
+  
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-redirect-from
+
+minima_reboot:
+  date_format: "%b %-d, %Y"
+  date_format_short: "%b %-d"
+
+header_pages:
+- about.md
+- risa_yuzuki.md
+- other_artist.md
+- android.md
+- link.md
+- contact.md
+
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - minima-reboot.gemspec
