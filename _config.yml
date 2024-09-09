@@ -1,7 +1,8 @@
 title: MONE FIERA OFFICIAL
 author: MONE FIERA, All rights reserved
-description: Powered by GitHub Pages & Jekyll
-  
+url: http://monefiera.github.io
+timezone: Japan/Tokyo
+logo: "/img/logo.png"
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
