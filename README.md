@@ -4,6 +4,6 @@
 ## ライセンスについて
 このウェブサイトはJekyllベースのため、コードにMIT Licenseが適用されます。<br>
 一方で**サイト内の文章**についてはアーティスト様の権利保護も踏まえ、無断転載を禁止します。<br>
-MONE FIERA OFFICIAL is licensed under the MIT license. Check the LICENSE file.
-The documentation is "All rights reserved". Check the LICENSE-ARTICLE file.
+MONE FIERA OFFICIAL is licensed under the MIT license. Check the LICENSE file.<br>
+The documentation is "All rights reserved". Check the LICENSE-ARTICLE file.<br>
 
