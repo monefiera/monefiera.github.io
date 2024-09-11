@@ -2,8 +2,8 @@
 殆ど自己紹介サイト<br>
 
 ## ライセンスについて
-このウェブサイトはJekyllベースのため、コードにMIT Licenseが適用されます。<br>
-一方で**サイト内の文章**についてはアーティスト様の権利保護も踏まえ、無断転載を禁止します。<br>
-MONE FIERA OFFICIAL is licensed under the MIT license. Check the LICENSE file.<br>
-The documentation is "All rights reserved". Check the LICENSE-ARTICLE file.<br>
+このウェブサイトはJekyllコード、Mr.Greenテーマがベースのため、コードにMIT Licenseが適用されます。<br>
+しかし**サイト内の文章**についてはアーティスト様の権利保護も踏まえ、無断転載を禁止します。<br>
+MONE FIERA OFFICIAL is licensed under the MIT license. Check the [LICENSE](https://github.com/monefiera/monefiera.github.io/blob/main/LICENSE) file.<br>
+But the documentation is "All rights reserved". Check the [LICENSE-ARTICLE](https://github.com/monefiera/monefiera.github.io/blob/main/LICENSE-ARTICLE) file.<br>
 
