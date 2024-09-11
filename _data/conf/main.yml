@@ -257,9 +257,9 @@ copyright_add_text_to_end: false
 
 # this will add creative commons license. check _data/owner/[language].yml for license type.
 creative_commons:
-  enable: true
-  tooltip: true
-  add_all_icons: true
+  enable: false
+  tooltip: false
+  add_all_icons: false
   license_url: "https://creativecommons.org/licenses/$license/4.0/deed.$lng"
   license_replace: $license
   lang_replace: $lng
