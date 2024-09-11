@@ -46,49 +46,82 @@ page_data:
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "JekyII / Liquid"
-      type: id_jekyiiliquid
-      color: "gray"
-    - title: "Web Design"
-      type: id_webdesign
-      color: "#F4A273"
-    - title: "Programming"
-      type: id_programming
-      color: "#62b462"
+    - title: "Other SNS & Contacts"
+      type: other_sns
+      color: "#A7E100"
+    - title: "Entertainment"
+      type: entertainment
+      color: "#A71C1E"
+    - title: "Special Thanks"
+      type: special_thanks
+      color: "#F5BD02"
 
   list:
     -
-    # programming
-    - type: id_programming
-      title: "Stack OverFlow"
-      url: "https://stackoverflow.com/"
-      info: "Stack Overflow is a question and answer website for professional and enthusiastic programmers."
+    # Other SNS & Contacts
+    - type: other_sns
+      title: "Session"
+      url: "https://getsession.org/"
+      info: "ID：05559fb0726acee54deafca61664c6ead50b756ed046693a1c92024142bd029331。緊急連絡先としては、メールに並んで繋がりやすいです。"
+    - type: other_sns
+      title: "Misskey.io"
+      url: "https://misskey.io/@Forsaken_Love02"
+      info: "純日本製分散型SNS。少なくとも毎日は見てないのであまりレスポンス期待は薄です。"
+    - type: other_sns
+      title: "Bluesky"
+      url: "https://bsky.app/profile/forsaken-love02.bsky.social"
+      info: "上記のMisskeyと活動状況はほぼ一緒です。"
+    - type: other_sns
+      title: "Pixiv"
+      url: "https://www.pixiv.net/users/72155198"
+      info: "基本的にPixiv百科の編集を前提に持ってます。"
+    - type: other_sns
+      title: "Discord"
+      url: "https://discordapp.com/users/736921246289362946"
+      info: "最近はこっちが活動のメイン。相当親しい人じゃないとフレンド申請は通りません。"
+    - type: other_sns
+      title: "note"
+      url: "https://note.com/forsaken_love02"
+      info: "前から書き連ねてる文章群。当面消すつもりは無いのでご安心ください。"
 
-    # jekyiiliquid
-    - type: id_jekyiiliquid
-      title: "Jekyll"
-      url: "https://jekyllrb.com/"
-      info: "Transform your plain text into static websites and blogs."
-    - type: id_jekyiiliquid
-      title: "Jekyll Cheat Sheet"
-      url: "https://cloudcannon.com/community/jekyll-cheat-sheet/"
-      info: "There are so many Jekyll variables and filters to remember and it can be tricky to keep it all in your head. This cheat sheet serves as a quick reference of everything Jekyll can do."
-    - type: id_jekyiiliquid
-      title: "Liquid for Designers"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers"
-      info: "Liquid for Designers wiki on GitHub."
-    - type: id_jekyiiliquid
-      title: "Liquid for Programmers"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers"
-      info: "Liquid for Programmers wiki on GitHub."
-    - type: id_jekyiiliquid
-      title: "Liquid Reference"
-      url: "https://shopify.dev/api/liquid/"
-      info: "Liquid is a template language created by Shopify and written in Ruby. It is now available as an open source project on GitHub."
 
-    # webdesign
-    - type: id_webdesign
-      title: "W3Schools"
-      url: "https://www.w3schools.com/"
-      info: "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many more."
+    # Entertainment
+    - type: entertainment
+      title: "Zabuu - 質問箱"
+      url: "https://zabuu.site/box/1483824905967730693"
+      info: "匿名質問箱、余程答えたくない質問以外は答えてます。"
+    - type: entertainment
+      title: "Emotional Chemistry Channel"
+      url: "https://www.youtube.com/channel/UCVtxKYGduOp3Aaxvi0LF9bA"
+      info: "一応持ってるYouTubeチャンネル。ゆずりさ配信にコメントしたり動画の身内共有用に使っています。"
+    - type: entertainment
+      title: "Steam Community"
+      url: "https://steamcommunity.com/profiles/76561199387991378"
+      info: "もうそろそろ使い始めると思われる、一応持ってるパート2です。"
+    - type: entertainment
+      title: "Racing Master"
+      url: "https://www.racingmaster.game/jp/"
+      info: "ID：4066932701、最近ハマってるのでとりあえず設置。しかしフレンド申請にはあまり期待しないでください。"
+
+    # Special Thanks
+    - type: special_thanks
+      title: "人外"
+      url: "https://twitter.com/02_ningen"
+      info: "私のアイコンを描いてくださった方です。是非ともフォローよろしくお願い致します。"
+    - type: special_thanks
+      title: "四季島モルガン"
+      url: "https://www.youtube.com/@morgan_0516"
+      info: "所属レーサーズゲームクラブ「ZWEI」の長。このサイトの原型になったプロフカードの参考にさせて頂いています。"
+    - type: special_thanks
+      title: "いちゆう-まさかわ-"
+      url: "https://twitter.com/Itiyuu_Masakawa"
+      info: "「ゆずりさの集い」共同モデレーター。ゆずりさ周りでは本当にいろいろお世話になってます。"
+    - type: special_thanks
+      title: "Re*Index(ot_inc)"
+      url: "https://twitter.com/ot_inc"
+      info: "私をAndroid界隈の沼地に引きずり込んだ~~元凶~~全てのはじまりの方として列席。"
+    - type: special_thanks
+      title: "そらりす"
+      url: "https://twitter.com/soralis_0912"
+      info: "所属OSS団体「そらいろネットワーク」代表。最近PC周りやAndroid開発などでいろいろお世話になってます。"
 ---
