@@ -62,7 +62,7 @@ page_data:
     - type: other_sns
       title: "Session"
       url: "https://getsession.org/"
-      info: "ID：05559fb0726acee54deafca61664c6ead50b756ed046693a1c92024142bd029331。緊急連絡先としては、メールに並んで繋がりやすいです。"
+      info: "ID：05559fb0726acee54deafca61664c6ead50b756ed046693a1c92024142bd029331。<br>緊急連絡先としては、メールに並んで繋がりやすいです。"
     - type: other_sns
       title: "Misskey.io"
       url: "https://misskey.io/@Forsaken_Love02"
@@ -119,7 +119,7 @@ page_data:
     - type: special_thanks
       title: "Re*Index(ot_inc)"
       url: "https://twitter.com/ot_inc"
-      info: "私をAndroid界隈の沼地に引きずり込んだ~~元凶~~全てのはじまりの方として列席。"
+      info: "私をAndroid界隈の沼地に引きずり込んだ元凶…もとい全てのはじまりの方として列席。"
     - type: special_thanks
       title: "そらりす"
       url: "https://twitter.com/soralis_0912"
