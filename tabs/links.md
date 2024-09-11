@@ -42,7 +42,7 @@ lng_pair: id_links
 page_data:
   main:
     header: "Links"
-    info: "Your Links page description."
+    info: "### 注意事項<br>・LinksのSNSも合わせてご参照ください。<br>・すべてのご連絡に返信をお約束するものではございませんのでご了承ください。<br>"
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
