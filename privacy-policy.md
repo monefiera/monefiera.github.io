@@ -1,10 +1,10 @@
 ---
-layout: home
+layout: privacy-policy
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_home
+lng_pair: id_privacy_policy
 
 # image for page specific usage
-img: ":pheoindex.png"
+#img: ":image.jpg"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -29,25 +29,18 @@ img: ":pheoindex.png"
 # image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
 #image_lazy_loader_on: true
 # exclude from on site search
-#on_site_search_exclude: true
+on_site_search_exclude: true
 # exclude from search engines
-#search_engine_exclude: true
+search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-# don't forget that this is root index.html. If you disable this, there will be no index.html page to open
 #published: false
 ---
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 {%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
-### Welcome to My Site!!
-こちらはもね/ふぃえらの基礎情報をいろいろ置いたサイトになっています。<br>
-- Android開発界隈(ROM焼き試験場など)
-- ゆずりさリスナー界隈(ゆずりさの集い)<br>
-の2つの界隈+αに首を突っ込みながら、毎日を必死に生きています。<br>
+{{ page_title_text }}
 
-### How To Contact
-ご連絡の際は[こちら](https://monefiera.github.io/contact/)をご参照ください。<br>
-リアル事情の関係上即応できるとは限りませんが、できる限り早めの返信を致します。<br>
+{{ website_info_text_first | replace: website_greeting_text, '' }}
+
 {{ website_info_text_second }}
