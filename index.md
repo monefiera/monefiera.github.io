@@ -47,6 +47,6 @@ img: ":pheoindex.png"
 の2つの界隈+αに首を突っ込みながら、毎日を必死に生きています。<br>
 
 ### How To Contact
-ご連絡の際は[こちら](https://monefiera.github.io/contact/)をご参照ください。<br>
+ご連絡の際は[こちら](https://monefiera.github.io/tabs/links.html)をご参照ください。<br>
 リアル事情の関係上即応できるとは限りませんが、できる限り早めの返信を致します。<br>
 {{ website_info_text_second }}
