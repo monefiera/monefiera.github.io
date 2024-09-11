@@ -8,7 +8,7 @@ brand: "MONE FIERA OFFICIAL"
 brand_sub_text: "Official Site of MONE FIERA"
 
 # used for seo meta post author (if it's not defined in post)
-name: ["TMONE FIERA",MONE FIERA]
+name: ["MONE FIERA",MONE FIERA]
 
 # home page top header texts
 home:
