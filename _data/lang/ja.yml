@@ -149,8 +149,8 @@ archives:
 
 # for about layout
 about:
-  title: 私について
-  button_name: 私について
+  title: About
+  button_name: About
   email_title: メール
 
 # for links layout
@@ -173,9 +173,9 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: こんにちは
-  welcome: ようこそ
-  sample: サンプル
+  greetings: 
+  welcome: 
+  sample: 
 
 # for contact form
 contact_form:
