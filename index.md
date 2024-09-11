@@ -41,7 +41,6 @@ img: ":pheoindex.png"
 
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
-### Welcome to My Site!!
 こちらはもね/ふぃえらの基礎情報をいろいろ置いたサイトになっています。<br>
 - Android開発界隈(ROM焼き試験場など)
 - ゆずりさリスナー界隈(ゆずりさの集い)<br>
