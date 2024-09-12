@@ -8,7 +8,7 @@ page_data:
     info: "プロジェクトの説明はこちら。"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":projects-heading.jpg"
+    img: ":Projects-Heading.png"
     back_color: "lightblue"
 
   category:
@@ -27,7 +27,7 @@ page_data:
     - type: yuzurisa
       project_name: "Risa Yuzuki Projects"
       project_excerpt: "推し活としていろいろやってるやつ"
-      img: ":yuzurisa_projects.jpg"
+      img: ":Yuzurisa_Projects.png"
       img_title: "Risa Yuzuki"
       date: "2021-10-31"
       post: |
@@ -53,7 +53,7 @@ page_data:
     - type: android
       project_name: "Android Developments"
       project_excerpt: "Androidに関わるいろいろ"
-      img: ":Android_Projects.jpg"
+      img: ":Android_Projects.png"
       img_title: "Android"
       date: "2024-04-20"
       post: |
