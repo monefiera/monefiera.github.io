@@ -112,8 +112,8 @@ post:
 
 # for post-list layout
 post-list:
-  title: ブログ
-  button_name: ブログ
+  title: Blog
+  button_name: Blog
   upside_down_tabs:
     tab:
       all: 全て
