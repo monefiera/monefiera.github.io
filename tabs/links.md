@@ -61,8 +61,8 @@ page_data:
     # Other SNS & Contacts
     - type: other_sns
       title: "Session"
-      url: "https://getsession.org/"
-      info: "ID：05559fb0726acee54deafca61664c6ead50b756ed046693a1c92024142bd029331。<br>緊急連絡先としては、メールに並んで繋がりやすいです。"
+      url: "https://raw.githubusercontent.com/monefiera/monefiera.github.io/main/Session_QR.jpg"
+      info: "リンク先のQRを読んで行ってください。緊急連絡先としては、メールに並んで繋がりやすいです。"
     - type: other_sns
       title: "Misskey.io"
       url: "https://misskey.io/@Forsaken_Love02"
@@ -113,13 +113,13 @@ page_data:
       url: "https://www.youtube.com/@morgan_0516"
       info: "所属レーサーズゲームクラブ「ZWEI」の長。このサイトの原型になったプロフカードの参考にさせて頂いています。"
     - type: special_thanks
-      title: "いちゆう-まさかわ-"
+      title: "いちゆう(まさかわ)"
       url: "https://twitter.com/Itiyuu_Masakawa"
       info: "「ゆずりさの集い」共同モデレーター。ゆずりさ周りでは本当にいろいろお世話になってます。"
     - type: special_thanks
       title: "Re*Index(ot_inc)"
       url: "https://twitter.com/ot_inc"
-      info: "私をAndroid界隈の沼地に引きずり込んだ元凶…もとい全てのはじまりの方として列席。"
+      info: "ソフトウェア専科の翻訳家。私をAndroid界隈の沼地に引きずり込んだ元凶…もとい全てのはじまりの方として列席。"
     - type: special_thanks
       title: "そらりす"
       url: "https://twitter.com/soralis_0912"
