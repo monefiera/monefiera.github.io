@@ -92,7 +92,10 @@ page_data:
         
         #### Contribute a Little
         - [piko-Revanced](https://github.com/crimera/piko)<br>
-        Homeアイコンを鳥籠に戻すパッチを追加。以前は各色毎のOrigin Twitterも作っていました
+        Homeアイコンを鳥籠に戻すパッチを追加。
+        - [Origin Twitter](https://github.com/monefiera/Origin-Twitter/)
+        色々弄って戻せるだけ全部Twitterに戻し、10色のカラーテーマが使えるようにしたカスタムapk。<br>
+        は自分でRevancify使ってpikoをパッチしてもらう方式。そのうちあちらとの統合を検討しています。
         - [treble_app](https://github.com/TrebleDroid/treble_app)<br>
         TB320FCの磁気カバースリーブ機能を有効化するプルリクをぶん投げ
         - [2019_android_walkman](https://github.com/notcbw/2019_android_walkman/)<br>
