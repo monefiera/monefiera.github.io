@@ -81,10 +81,13 @@ page_data:
         - Lenovo Legion Tab Y700 2024/TB321FU：次代ゲーム機、TB320FCは譲渡予定
         - Xiaomi 13T/Aristotle：カメラ用として欲しいなと思いつつ、優先度はやや低め<br>
 
-        #### Magisk Module
+        #### Mainプロジェクト群
         - [Lenovo Legion Tab GSI Fix](https://github.com/monefiera/Lenovo-Legion-Tab-GSI-FIX)<br>
         SMART ASW氏のをベースに魔改造した、TB320FC用GSIモジュール。<br>
-       
+      　- [Origin Twitter](https://github.com/monefiera/Origin-Twitter/)<br>
+        色々弄って戻せるだけ全部Twitterに戻し、計10色のカラーテーマが使えるようにした自炊野良アプリ。<br>
+        自分でRevancify使ってpikoをパッチしてもらう方式。そのうちあちらとの統合を検討しています。
+        
         ##### EOL済みプロジェクト
         - [Twemoji Remastered](https://github.com/monefiera/Twemoji-Remastered)<br>
         一時期独自更新していたシステムの絵文字をTwemojiに互換するモジュール。<br>
@@ -93,9 +96,6 @@ page_data:
         #### Contribute a Little
         - [piko-Revanced](https://github.com/crimera/piko)<br>
         Homeアイコンを鳥籠に戻すパッチを追加。
-        - [Origin Twitter](https://github.com/monefiera/Origin-Twitter/)<br>
-        色々弄って戻せるだけ全部Twitterに戻し、10色のカラーテーマが使えるようにしたカスタムapk。<br>
-        は自分でRevancify使ってpikoをパッチしてもらう方式。そのうちあちらとの統合を検討しています。
         - [treble_app](https://github.com/TrebleDroid/treble_app)<br>
         TB320FCの磁気カバースリーブ機能を有効化するプルリクをぶん投げ
         - [2019_android_walkman](https://github.com/notcbw/2019_android_walkman/)<br>
