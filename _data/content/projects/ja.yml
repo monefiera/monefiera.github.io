@@ -81,12 +81,12 @@ page_data:
         - Lenovo Legion Tab Y700 2024/TB321FU：次代ゲーム機、TB320FCは譲渡予定
         - Xiaomi 13T/Aristotle：カメラ用として欲しいなと思いつつ、優先度はやや低め<br>
 
-        #### Magisk Module
+        #### Active プロジェクト
         - [Lenovo Legion Tab GSI Fix](https://github.com/monefiera/Lenovo-Legion-Tab-GSI-FIX)<br>
         SMART ASW氏のをベースに魔改造した、TB320FC用GSIモジュール。<br>
         - [Origin Twitter](https://github.com/monefiera/Origin-Twitter/)<br>
-        色々弄って戻せるだけ全部Twitterに戻し、10色のカラーテーマが使えるようにしたカスタムapk。<br>
-        自分でRevancify使ってpikoをパッチしてもらう方式。そのうちあちらとの統合を検討しています。<br>
+        色々弄って戻せるだけ全部Twitterに戻し、Webテーマ6色+ふぃえら製テーマ4色、計10色のカラーテーマが使えるようにした自炊野良アプリ。<br>
+        自分でRevancify使って下記のpikoをパッチしてもらう方式を取っています。そのうちカラーパッチを作成(依頼)し、あちらと統合することを検討しています。<br>
         
         ##### EOL済みプロジェクト
         - [Twemoji Remastered](https://github.com/monefiera/Twemoji-Remastered)<br>
