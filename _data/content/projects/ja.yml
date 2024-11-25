@@ -67,23 +67,26 @@ page_data:
         #### 保有端末(Active)
         - ASUS Zenfone 9/AI2202：永遠のメイン機
         - Lenovo Legion Tab Y700 2024/TB321FU：ゲーム&学務用機
-        - Lenovo Legion Tab Y700 2023/TB320FC：先代ゲーム用機→譲渡予定
         - Sony Walkman A-Series 2019/NW-A106：音楽用機
         - LG V30+/L-01K：音楽用サブ機 ~~、ゆく育専用機~~
         - Xiaomi Redmi 9T/Lime：業務用兼ROM焼き練習用サブ機<br>
         
         ##### 休養中端末
-        - Lenovo Legion Tab Y700 2022/TB-9707F：前ゲーム機、諸事情で死亡のため治療中
+        - Lenovo Legion Tab Y700 2023/TB320FC：先代ゲーム用機、譲渡予定
+        - Lenovo Legion Tab Y700 2022/TB-9707F：先々代ゲーム機、諸事情で死亡のため治療中
         - ASUS Zenfone 4/ZE554KL：前メイン機、TYPE-C充電口が死んでるため修理検討
         - Samsung Galaxy S5 Active/SC-02G：前々メイン機、バッテリーが無いため封印中<br>
 
         ##### 入手予定端末
         - ASUS Zenfone 10/AI2302：Zenfone 9に何かあった場合次代はこいつになります
-        - Xiaomi 13T/Aristotle：カメラ用として欲しいなと思いつつ、優先度はやや低め<br>
+        - Xperia 5 V/XQ-DE44：所用でmicroSD搭載の8Gen2機が欲しくなったので筆頭候補
+        - Xiaomi 13T/Aristotle：カメラ用として欲しいなと思いつつ、優先度は低め<br>
 
         #### Active プロジェクト
         - [Lenovo Legion Tab GSI Fix](https://github.com/monefiera/Lenovo-Legion-Tab-GSI-FIX)<br>
         SMART ASW氏のをベースに魔改造した、TB320FC用GSIモジュール。<br>
+        - [Legion Y700 Gen3 GSI Fix](https://github.com/monefiera/Legion-Y700-Gen3-GSI-FIX)<br>
+        上記のをベースにした、TB321FU用GSIモジュール。まだ開発超初期段階です。<br>
         - [Origin Twitter](https://github.com/monefiera/Origin-Twitter/)<br>
         色々弄って戻せるだけ全部Twitterに戻し、Webテーマ6色+ふぃえら製テーマ4色、計10色のカラーテーマが使えるようにした自炊野良アプリ。<br>
         自分でRevancify使って下記のpikoをパッチしてもらう方式を取っています。そのうちカラーパッチを作成(依頼)し、あちらと統合することを検討しています。<br>
