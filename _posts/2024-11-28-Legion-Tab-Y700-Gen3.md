@@ -11,7 +11,7 @@ category: Android
 # multiple tag entries are possible
 tags: [Legion_Y700_Gen3, Lenovo, Android]
 # thumbnail image for post
-img: ":Legion__Tab_Y700_Gen3.png"
+img: ":Legion_Tab_Y700_Gen3.png"
 # disable comments on this page
 comments_disable: false
 
@@ -43,11 +43,11 @@ TB321FUについてのいろいろ、工事中
 
 ![](/assets/img/posts/Legion_Tab_Y700_Gen3.png)<br>
 
-#About 
+# About 
 
-#Bootloader Unlock
+# Bootloader Unlock
 
-#Fix any Issues
+# Fix any Issues
 
 # Links
 - [Update & Config Sheets for TB321FU](https://docs.google.com/spreadsheets/d/1k2HfOxOtsAcrs3d6pZj7JbRal3-wCFjgfXOZbY-md3E/edit?gid=1320366173#gid=1320366173)
