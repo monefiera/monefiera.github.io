@@ -50,6 +50,6 @@ TB321FUについてのいろいろ、工事中
 # Fix any Issues
 
 # Links
-- [Update & Config Sheets for TB321FU](https://docs.google.com/spreadsheets/d/1k2HfOxOtsAcrs3d6pZj7JbRal3-wCFjgfXOZbY-md3E/edit?gid=1320366173#gid=1320366173)
+- [Update & Config Sheets for TB321FU](https://docs.google.com/spreadsheets/d/e/2PACX-1vR8_9PpyYltz99TIm12_NywYUANx7VgiLdn1tufz7PZWuAwX2KJnkDr8pEtMZ31xSLl3tbg9j3ritXT/pubhtml)
 - [XDA forums - Lenovo Y700 SD8 Gen3](https://xdaforums.com/t/lenovo-y700-sd8-gen3.4686862/)
 - [4pda - Discussion Lenovo Legion Y700 (2025)](https://4pda.to/forum/index.php?showtopic=1094930)
