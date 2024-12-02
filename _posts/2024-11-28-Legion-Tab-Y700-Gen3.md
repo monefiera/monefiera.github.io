@@ -44,10 +44,18 @@ TB321FUについてのいろいろ、工事中
 ![](/assets/img/posts/Legion_Tab_Y700_Gen3.png)<br>
 
 # About 
-
+基礎情報は[noteで書いたOverview記事](https://note.com/forsaken_love02/n/n9838e0020d61#a676f10e-3537-4ddd-a027-0ab080300e52)を参照してください。<br>
 # Bootloader Unlock
+Lenovoから申請する事も可能ですがLenovoにシリアルナンバーが知られる(=JDなど公式から買っていても保証が切れる)ため下記の方法を推奨します。<br>
+①[こちら](https://monefiera.github.io/TB321FU_Tools/sn.img)からsn.imgをダウンロード。<br>
+②バイナリエディタを用いてsn.img内のシリアルナンバーを端末のモノに変える。元のSNは「YUZURISA」です。~~お察し~~<br>
+③Fastboot Modeで'fastboot flash unlock sn.img'を使ってアンロック。TB-9707Fでは入力の必要があった'fastboot oem unlock-go'も自動で実行してくれます。<br>
 
 # Fix any Issues
+- 日本語化は兎も角要らん中華アプリが多すぎるんだが？<br>
+ここにv16.1.11.040で作成した中華アプリ群アンストパッチがダウンロードできます。日本語化もついでにしてくれます。<br>
+
+# How to activate ROW ROM
 
 # Links
 - [Update & Config Sheets for TB321FU](https://docs.google.com/spreadsheets/d/e/2PACX-1vR8_9PpyYltz99TIm12_NywYUANx7VgiLdn1tufz7PZWuAwX2KJnkDr8pEtMZ31xSLl3tbg9j3ritXT/pubhtml)
