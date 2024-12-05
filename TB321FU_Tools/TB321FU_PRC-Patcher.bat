@@ -37,10 +37,10 @@ adb shell pm uninstall --user 0 com.zui.recorder || pause
 adb shell pm uninstall --user 0 net.huanci.hsjpro || pause
 adb shell pm uninstall --user 0 com.zui.calendar.overlay.blue || pause
 adb shell pm uninstall --user 0 com.zui.calendar.overlay.mains || pause
-adb shell pm uninstall --user 0 com.lenovo.leos.appstore || pause
-adb shell pm uninstall --user 0 com.lenovo.menu_assistant.hd || pause
-adb shell pm uninstall --user 0 com.android.providers.contacts || pause
-adb shell pm uninstall --user 0 com.zui.browser || pause
+adb shell pm disable-user com.lenovo.leos.appstore || pause
+adb shell pm disable-user com.lenovo.menu_assistant.hd || pause
+adb shell pm disable-user com.android.providers.contacts || pause
+adb shell pm disable-user com.zui.browser || pause
 
 
 adb shell settings put system system_locales ja-JP || pause
