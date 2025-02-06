@@ -1,0 +1,119 @@
+# you can move this content to front matter of [language]/tabs/projects.md
+###########################################################
+#                Projects Page Data
+###########################################################
+page_data:
+  main:
+    header: "Projects"
+    info: "プロジェクトの説明はこちら。"
+    text_color: "white"
+    # if you don't want to use background image, comment it. back_color will be activated.
+    img: ":Projects-Heading.png"
+    back_color: "lightblue"
+
+  category:
+    - title: "Yuzurisa"
+      type: yuzurisa
+      color: "#FE9CB4"
+    - title: "Android Development"
+      type: android
+      color: "#A4C639"
+#    - title: "名言"
+#     type: id_quote
+#     color: "#2FD0ED"
+
+  list:
+    # example
+    - type: yuzurisa
+      project_name: "Risa Yuzuki Projects"
+      project_excerpt: "推し活としていろいろやってるやつ"
+      img: ":Yuzurisa_Projects.png"
+      img_title: "Risa Yuzuki"
+      date: "2021-10-31"
+      post: |
+        [Blog記事「Risa Yuzuki」](https://monefiera.github.io/posts/2024-09-15-About-Risa-Yuzuki)もご参照ください。
+        ### Active Projects
+        - [Pixiv百科記事：Risa_Yuzuki](https://dic.pixiv.net/a/Risa_Yuzuki)<br>
+        項目最初に立ち上げた犯人です。私と御本人以外の編集履歴が無いのはご愛嬌。<br>
+        - [セミオフィシャルコミュニティ：ゆずりさの集い](https://twitter.com/i/communities/1665290476734529538)<br>
+        2023年の1stワンマンライブ「[Future Interlink](https://www.yuzu-risa.com/futureinterlink)」後の打ち上げ中**勢いで**立ち上がったファンコミュニティ。<br>
+        ~~何故か~~タンパク質さん(ゆずりさのサブ垢)も在籍しているため実質セミオフィシャル的な立ち位置です。<br>
+        私が立ち上げたので、逃れられない管理者(≒代表)としての宿命が紐づけられました。<br>
+        とはいえあまり気張る事はなく、同じ推しを共有する仲間と、日々のんびり活動しています。<br>
+        一応TwitterとDiscordをメインにしていますが、避難所としてMisskey部もあります。<br>
+        - [Risa Yuzuki Wiki](https://wikiwiki.jp/risa-yuzuki/)<br>
+        [御本人からの許諾](https://twitter.com/yuzurisub_/status/1750097661192249672)を得て開発中のWiki。私生活の影響で停滞中ですが[(何もしてない訳では)ないです](https://monefiera.github.io/Risa-Yuzuki-Wiki-Files/Music-Game&Covered/Covered_&_Provided.html)。<br>
+        最近はアルバム曲の歌詞をフルで載せていいものかを悩んでます。今度ご相談します()<br>
+        - [note：ゆずりさ/Risa Yuzukiまとめ](https://note.com/forsaken_love02/m/m315798a76a0d)<br>
+        なんかやたらと野良アプリ伸びてますが、元々はゆずりさの紹介の為に立ち上げたnoteでした。<br>
+        ~~どうしてこんな事に…~~ <br>
+        主にアルバムのレビュー記事をメインにしてます。やはり私生活に逼迫されてろくろく書けてないのは猛省点。<br>
+
+    # picture
+    - type: android
+      project_name: "Android Developments"
+      project_excerpt: "Androidに関わるいろいろ"
+      img: ":Android_Projects.png"
+      img_title: "Android"
+      date: "2024-04-20"
+      post: |
+        # 概要
+        親がAppleに○されて乗っ取られた恨みから永遠のAndroid派です。<br>
+        いろいろやってたらどういう訳か、界隈に深く関わる事になってしまっています。<br>
+        現在はMagisk Moduleの開発が主ですが、将来的には~~周りからの圧力もあり~~ROM開発も視野に入れています。<br>
+        ちなみにメイン使用端末見てもらえればわかりますが、コンパクトな機体を好みます。<br>
+        ~~目指すはLegion Tab Y700芸人です。~~<br>
+
+        #### 保有端末(Active)
+        - ASUS Zenfone 9/AI2202：永遠のメイン機
+        - Lenovo Legion Tab Y700 2024/TB321FU：ゲーム&学務用機
+        - Sony Walkman A-Series 2019/NW-A106：音楽用機
+        - LG V30+/L-01K：音楽用サブ機 ~~、ゆく育専用機~~
+        - Xiaomi Redmi 9T/Lime：ROM焼き練習用サブ機→業務用機<br>
+        
+        ##### 休養中端末
+        - Lenovo Legion Tab Y700 2023/TB320FC：先代ゲーム用機、譲渡予定
+        - Lenovo Legion Tab Y700 2022/TB-9707F：先々代ゲーム機、諸事情で死亡のため治療中
+        - ASUS Zenfone 4/ZE554KL：前メイン機、TYPE-C充電口が死んでるため修理検討
+        - Samsung Galaxy S5 Active/SC-02G：前々メイン機、バッテリーが無いため封印中<br>
+
+        ##### 入手予定端末
+        - ASUS Zenfone 10/AI2302：Zenfone 9に何かあった場合次代はこいつになります
+        - Xperia 5 V/XQ-DE44：所用でmicroSD搭載の8Gen2機が欲しくなったので筆頭候補
+        - Xiaomi 13T/Aristotle：カメラ用として欲しいなと思いつつ、優先度は低め<br>
+
+        #### Active プロジェクト
+        - [Kirby PRC ZUI Enhance](https://github.com/monefiera/magisk-module-zui-enhance)<br>
+        TB321FUを中華リージョン(CN/PRC)のROMで快適使用するために開発中のモジュールです。<br>
+        - [Legion Y700 Gen3 GSI Fix](https://github.com/monefiera/Legion-Y700-Gen3-GSI-FIX)<br>
+        SMART ASW氏のをベースに魔改造した、TB321FU用GSIモジュール。まだ開発超初期段階です。<br>
+        - [Adaway Allow-Hosts](https://github.com/monefiera/adaway-hosts)<br>
+        日本語圏でAdawayを使う上で、許可しとかないとアプリ動かなくて詰むやつらを纏めた適用リストです。<br>
+        personalDNSfilter版もありますが、~~そもそもWi-Fiのログインとかでエラー起こすので個人的にはあまりおすすめしません~~。<br>
+        - [Origin Twitter](https://github.com/monefiera/Origin-Twitter/)<br>
+        色々弄って戻せるだけ全部Twitterに戻し、Webテーマ6色+ふぃえら製テーマ4色、計10色のカラーテーマが使えるようにした自炊野良アプリ。<br>
+        自分でRevancify等を使って下記のpikoをパッチしてもらう方式を取っています。そのうちカラーパッチを作成(依頼)し、あちらと統合することを検討しています。<br>
+        
+        ##### EOL済みプロジェクト
+        - [Lenovo Legion Tab GSI Fix](https://github.com/monefiera/Lenovo-Legion-Tab-GSI-FIX)<br>
+        かつて開発していた、TB320FC用GSIモジュール。端末を手放したためPublic Archiveしています。<br>
+        - [Twemoji Remastered](https://github.com/monefiera/Twemoji-Remastered)<br>
+        一時期独自更新していたシステムの絵文字をTwemojiに互換するモジュール。<br>
+        本家が開発再開したのでPublic Archive状態です。<br>
+        
+        #### Contribute a Little(一部)
+        - [piko-Revanced](https://github.com/crimera/piko)<br>
+        Homeアイコンを鳥籠に戻すパッチを追加。
+        - [treble_app](https://github.com/TrebleDroid/treble_app)<br>
+        TB320FC/TB321FUの磁気カバースリーブ機能を有効化するプルリクをぶん投げ
+        - [2019_android_walkman](https://github.com/notcbw/2019_android_walkman/)<br>
+        ~~私に見つかった結果~~、日本語解説の作成など<br>
+
+        #### その他(note記事)
+        - [使っているAndroid野良アプリ一覧](https://note.com/forsaken_love02/n/nd42186d4361a)<br>
+        謎の人気を獲得した末遂にG社の「野良アプリ」検索サジェスト1～2位になってしまったやつ。<br>
+        皆さん身体が野良アプリを求めているのはわかりますが…<br>
+        - [使っているAndroidアプリ一覧 Playストア編](https://note.com/forsaken_love02/n/n2ec4209defb0)<br>
+        上記記事の続編。<br>
+        - [Legion Y700シリーズ](https://note.com/forsaken_love02/m/m65b8ae03f30a)<br>
+        TB-9707F、TB320FC、TB321FUについていろいろ纏めたマニュアル的不定期連載マガジン。<br>
