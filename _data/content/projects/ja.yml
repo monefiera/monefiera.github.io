@@ -92,10 +92,9 @@ page_data:
         日本語圏でAdawayを使う上で、許可しとかないとアプリ動かなくて詰むやつらを纏めた適用リストです。<br>
         personalDNSfilter版もありますが、~~そもそもWi-Fiのログインとかでエラー起こすので個人的にはあまりおすすめしません~~。<br>
         - [Origin Twitter](https://github.com/monefiera/Origin-Twitter/)<br>
-        Twitterに戻したpatched apkをベースに、ebテーマ6色+ふぃえら製テーマ4色、計10色のカラーテーマが使えるようにした自炊野良アプリ。<br>
-        以前は自分で下記のpikoをパッチしてもらう方式を取っていました。2025年よりcrimera氏謹製apkを~~パチって~~お借りして色塗る自動工程にしてます。<br>
-        そのうちカラーパッチを作成(依頼)し、あちらと統合することを検討しています。<br>
-
+        色々弄って戻せるだけ全部Twitterに戻し、Webテーマ6色+ふぃえら製テーマ4色、計10色のカラーテーマが使えるようにした自炊野良アプリ。<br>
+        自分でRevancify等を使って下記のpikoをパッチしてもらう方式を取っています。そのうちカラーパッチを作成(依頼)し、あちらと統合することを検討しています。<br>
+        
         ##### EOL済みプロジェクト
         - [Lenovo Legion Tab GSI Fix](https://github.com/monefiera/Lenovo-Legion-Tab-GSI-FIX)<br>
         かつて開発していた、TB320FC用GSIモジュール。端末を手放したためPublic Archiveしています。<br>
