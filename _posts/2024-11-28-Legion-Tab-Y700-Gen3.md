@@ -46,19 +46,25 @@ TB321FUについてのいろいろ、工事中
 # About 
 基礎情報は[noteで書いたOverview記事](https://note.com/forsaken_love02/n/n9838e0020d61#a676f10e-3537-4ddd-a027-0ab080300e52)を参照してください。<br>
 # Bootloader Unlock
+基本的な方法は[limzei89氏の記事](https://note.com/limzei89/n/n82bb12a793f5)をご参照ください。<br>
 Lenovoから申請する事も可能ですがLenovoにシリアルナンバーが知られる(=JDなど公式から買っていても保証が切れる)ため下記の方法を推奨します。<br>
 ①[こちら](https://monefiera.github.io/TB321FU_Tools/sn.img)からsn.imgをダウンロード。<br>
 ②バイナリエディタを用いてsn.img内のシリアルナンバーを端末のモノに変える。元のSNは「YUZURISA」です。~~お察し~~<br>
 ③Fastboot Modeで'fastboot flash unlock sn.img'を使ってアンロック。TB-9707Fでは入力の必要があった'fastboot oem unlock-go'も自動で実行してくれます。<br>
 
+なお、内部コードの解析から**特定のバージョン以降Bootloader (Re)Lockができない可能性があります**ので十分にご注意ください。<br>
+
 # Fix any Issues
 - 日本語化は兎も角要らん中華アプリが多すぎるんだが？<br>
-[ここ](https://monefiera.github.io/TB321FU_Tools/TB321FU_PRC-Patcher.bat)からv16.1.11.040で作成した中華アプリ群アンストパッチがダウンロードできます。日本語化もついでにしてくれます。<br>
+[日本で使う上で、限りなく不便無くするモジュール](https://github.com/monefiera/magisk-module-zui-enhance)を作りましたのでお使いください。<br>
+非rootの場合、[ここ](https://monefiera.github.io/TB321FU_Tools/TB321FU_PRC-Patcher.bat)からv16.1.11.040で作成した中華アプリ群アンストパッチがダウンロードできます。日本語化もついでにしてくれます。<br>
+- タスクキルキツすぎ&インストーラも何か微妙<br>
+[UnfuckZUI](https://github.com/Xposed-Modules-Repo/xyz.cirno.unfuckzui)というLSPosedモジュールをおすすめします。タスクキルをROW同等に軽減、インストーラもAOSPのモノに互換してくれます(日本語化はされないので私のモジュールを併用してください)。<br>
 - やばい、ミスってSystemが起動しない！<br>
-文鎮化復旧用のQFIL ROMがあります…が焼き方特殊なんで[弊著note記事](https://note.com/forsaken_love02/n/n088953566fb2)をご参照ください。<br>
+文鎮化復旧用のQFIL ROMがあります…~~が焼き方特殊なんで[弊著note記事](https://note.com/forsaken_love02/n/n088953566fb2)をご参照ください。~~[limzei89氏が用意して下さっているROM](https://note.com/limzei89/n/nf62225e0cce6)が現在はおすすめです。<br>
 
 # How to activate ROW ROM
-~~一応項目置いてますが、犠牲者増えかねない上にPRCにroot取って魔改造ルートの方が使い勝手良いので書くの渋ってます…~~<br>
+~~一応項目置いてますが、犠牲者増えかねない上にPRCにroot取って魔改造ルートの方が使い勝手良いので書くの渋ってます…~~
 
 # Links
 - [Update & Config Sheets for TB321FU](https://docs.google.com/spreadsheets/d/e/2PACX-1vR8_9PpyYltz99TIm12_NywYUANx7VgiLdn1tufz7PZWuAwX2KJnkDr8pEtMZ31xSLl3tbg9j3ritXT/pubhtml)
