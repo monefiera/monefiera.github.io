@@ -66,7 +66,7 @@ page_data:
 
         #### 保有端末(Active)
         - ASUS Zenfone 9/AI2202：永遠のメイン機
-        - Lenovo Legion Tab Y700 Gen4/TB322FC：ゲーム&学務用機(予定)
+        - Lenovo Legion Tab Y700 Gen4/TB322FC：ゲーム、学務&開発用機
         - Sony Walkman A-Series 2019/NW-A106：音楽用機
         - LG V30+/L-01K：音楽用サブ機 ~~、ゆく育専用機~~
         - Xiaomi Redmi 9T/Lime：ROM焼き練習用サブ機→業務用機<br>
@@ -81,7 +81,7 @@ page_data:
         - Lenovo Legion Tab Y700 Gen3/TB321FU：先代ゲーム&学務用機、Gen4資金調達のため売却済
 
         ##### 入手予定端末
-        - OnePlus 13T/Pagani：Zenfone 9に何かあった場合次代はこいつになります、FeliCaはVenu 3でどうにかする予定
+        - OnePlus 13T/Pagani：Zenfone 9に何かあった場合次代はこいつになります、FeliCaはPixel Watchでどうにかする予定
         - Google Pixel 10 Pro/Blazer：次代メイン候補その2、Tensor G5による効率改善を期待しています
         - Xiaomi REDMI Turbo 4/Rodin：サブ機筆頭候補、POCO X7 Proは(バッテリーとホワイト無い点で興味)ないです
         - Xiaomi 14T/Degas：カメラ用として欲しいなと思いつつ、優先度は低め<br>
@@ -89,8 +89,6 @@ page_data:
         #### Active プロジェクト
         - [Kirby PRC ZUI Enhance](https://github.com/monefiera/magisk-module-zui-enhance)<br>
         TB321FUを中華リージョン(CN/PRC)のROMで快適使用するために開発中のモジュールです。<br>
-        - [Legion Y700 Gen3 GSI Fix](https://github.com/monefiera/Legion-Y700-Gen3-GSI-FIX)<br>
-        SMART ASW氏のをベースに魔改造した、TB321FU用GSIモジュール。まだ開発超初期段階です。<br>
         - [Adaway Allow-Hosts](https://github.com/monefiera/adaway-hosts)<br>
         日本語圏でAdawayを使う上で、許可しとかないとアプリ動かなくて詰むやつらを纏めた適用リストです。<br>
         personalDNSfilter版もありますが、~~そもそもWi-Fiのログインとかでエラー起こすので個人的にはあまりおすすめしません~~。<br>
@@ -121,4 +119,4 @@ page_data:
         - [使っているAndroidアプリ一覧 Playストア編](https://note.com/forsaken_love02/n/n2ec4209defb0)<br>
         上記記事の続編。<br>
         - [Legion Y700シリーズ](https://note.com/forsaken_love02/m/m65b8ae03f30a)<br>
-        TB-9707F、TB320FC、TB321FUについていろいろ纏めたマニュアル的不定期連載マガジン。<br>
+        TB-9707F、TB320FC、TB321FU、TB322FCについていろいろ纏めたマニュアル的不定期連載マガジン。<br>
