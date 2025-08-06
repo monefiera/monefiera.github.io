@@ -66,29 +66,24 @@ page_data:
 
         #### 保有端末(Active)
         - ASUS Zenfone 9/AI2202：永遠のメイン機
-        - Lenovo Legion Tab Y700 Gen4/TB322FC：ゲーム、学務&開発用機
+        - Lenovo Legion Tab Y700 Gen4/TB322FC/Elden：ゲーム、学務&開発用機
         - Sony Walkman A-Series 2019/NW-A106：音楽用機
-        - LG V30+/L-01K：音楽用サブ機 ~~、ゆく育専用機~~
+        - LG V30+/L-01K/Joan：音楽用サブ機 ~~、ゆく育専用機~~
         - Xiaomi Redmi 9T/Lime：ROM焼き練習用サブ機→業務用機<br>
         
-        ##### 休養中端末
-        - Lenovo Legion Tab Y700 Gen2/TB320FC：先々代ゲーム用機、譲渡予定
-        - Lenovo Legion Tab Y700 Gen1/TB-9707F：先々々代ゲーム用機、諸事情で死亡のため治療中
+        ##### 休養中/放出済端末
+        - Lenovo Legion Tab Y700 Gen3/TB321FU/Kirby：先代ゲーム&学務用機、Gen4資金調達のため売却済
+        - Lenovo Legion Tab Y700 Gen2/TB320FC/Asphalt：先々代ゲーム用機、譲渡予定
+        - Lenovo Legion Tab Y700 Gen1/TB-9707F/Pike：先々々代ゲーム用機、諸事情で死亡のため治療中
         - ASUS Zenfone 4/ZE554KL：前メイン機、TYPE-C充電口が死んでるため修理検討
-        - Samsung Galaxy S5 Active/SC-02G：前々メイン機、バッテリーが無いため封印中<br>
-
-        #### 放出済端末
-        - Lenovo Legion Tab Y700 Gen3/TB321FU：先代ゲーム&学務用機、Gen4資金調達のため売却済
-
+        - Samsung Galaxy S5 Active/SC-02G/Klteactivedcm：前々メイン機、バッテリーが無いため封印中<br>
+        
         ##### 入手予定端末
-        - OnePlus 13T/Pagani：Zenfone 9に何かあった場合次代はこいつになります、FeliCaはPixel Watchでどうにかする予定
+        - OnePlus 13T/Pagani：Zenfone 9に何かあった場合次代はこいつになります、FeliCaはPixel Watch 4でどうにかする予定
         - Google Pixel 10 Pro/Blazer：次代メイン候補その2、Tensor G5による効率改善を期待しています
-        - Xiaomi REDMI Turbo 4/Rodin：サブ機筆頭候補、POCO X7 Proは(バッテリーとホワイト無い点で興味)ないです
-        - Xiaomi 14T/Degas：カメラ用として欲しいなと思いつつ、優先度は低め<br>
+        - Xiaomi 14T Pro/Rothko：カメラ用として欲しいなと思いつつ、優先度は低め<br>
 
         #### Active プロジェクト
-        - [Kirby PRC ZUI Enhance](https://github.com/monefiera/magisk-module-zui-enhance)<br>
-        TB321FUを中華リージョン(CN/PRC)のROMで快適使用するために開発中のモジュールです。<br>
         - [Adaway Allow-Hosts](https://github.com/monefiera/adaway-hosts)<br>
         日本語圏でAdawayを使う上で、許可しとかないとアプリ動かなくて詰むやつらを纏めた適用リストです。<br>
         personalDNSfilter版もありますが、~~そもそもWi-Fiのログインとかでエラー起こすので個人的にはあまりおすすめしません~~。<br>
@@ -100,6 +95,9 @@ page_data:
         ##### EOL済みプロジェクト
         - [Lenovo Legion Tab GSI Fix](https://github.com/monefiera/Lenovo-Legion-Tab-GSI-FIX)<br>
         かつて開発していた、TB320FC用GSIモジュール。端末を手放したためPublic Archiveしています。<br>
+        - [Kirby PRC ZUI Enhance](https://github.com/monefiera/magisk-module-zui-enhance)<br>
+        TB321FUを中華リージョン(CN/PRC)のROMで快適使用するために開発していたモジュールです。<br>
+        同じく端末を手放したためPublic Archiveです。<br>
         - [Twemoji Remastered](https://github.com/monefiera/Twemoji-Remastered)<br>
         一時期独自更新していたシステムの絵文字をTwemojiに互換するモジュール。<br>
         本家が開発再開したのでPublic Archive状態です。<br>
@@ -115,7 +113,7 @@ page_data:
         #### その他(note記事)
         - [使っているAndroid野良アプリ一覧](https://note.com/forsaken_love02/n/nd42186d4361a)<br>
         謎の人気を獲得した末遂にG社の「野良アプリ」検索サジェスト1～2位になってしまったやつ。<br>
-        皆さん身体が野良アプリを求めているのはわかりますが…<br>
+        皆さん身体が野良アプリを求めているのはわかりますが⋯<br>
         - [使っているAndroidアプリ一覧 Playストア編](https://note.com/forsaken_love02/n/n2ec4209defb0)<br>
         上記記事の続編。<br>
         - [Legion Y700シリーズ](https://note.com/forsaken_love02/m/m65b8ae03f30a)<br>
