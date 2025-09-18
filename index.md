@@ -46,7 +46,13 @@ img: ":pheoindex.png"
 - ゆずりさリスナー界隈(ゆずりさの集い)<br>
 の2つの界隈+αに首を突っ込みながら、毎日を必死に生きています。<br>
 
-### How To Contact
+### ⚠️Emergency Info
+現在(2025/09/08～)Twitterの本アカウント[「もねふぃえ / @Forsaken_Love02」](https://twitter.com/Forsaken_Love02)が凍結しております。<br>
+管理コミュニティ「ゆずりさの集い」の皆様やフォロワー各位には、ご迷惑・ご心配をおかけし申し訳無い思いです。<br>
+復旧の目処は未だ経っていないですが、他SNSは現状生きているため、そちらでのご連絡をお願いしております。<br>
+大変恐縮ですが上記の旨、よろしくお願いいたします。<br>
+
+### ✉️How To Contact
 ご連絡の際は[こちら](https://monefiera.github.io/tabs/links.html)をご参照ください。<br>
 リアル事情の関係上即応できるとは限りませんが、できる限り早めの返信を致します。<br>
 {{ website_info_text_second }}
