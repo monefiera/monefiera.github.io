@@ -66,19 +66,20 @@ page_data:
 
         #### 保有端末(Active)
         - OnePlus 13T/PKX110/Pagani：13S(CPH2723)化し、頑張って保つことを約束した現メイン機
+        - Google Pixel Watch 3 45mm：13Tと二対一柱で使うFeliCa担当、何気に初の純Google機です
         - Lenovo Legion Tab Y700 Gen4/TB322FC/Elden：ゲーム、学務&開発用機
         - Sony Walkman A-Series 2019/NW-A106：音楽用機
         - LG V30+/L-01K/Joan：音楽用サブ機 ~~、ゆく育専用機~~
         - Xiaomi Redmi 9T/Lime：ROM焼き練習用サブ機→業務用機
         - Xiaomi 11T/Amber：写真用機
-        - Sony Xperia Ace Ⅱ/SO-41B：Pixel Watch導入までFeliCaを担ってもらうため緊急投入。<br>
+        - Sony Xperia Ace Ⅱ/SO-41B：Pixel Watch導入までFeliCaを担ってもらいました。今は適当なサブ機です。<br>
         
         ##### 休養中/放出済端末
         - Lenovo Legion Tab Y700 Gen3/TB321FU/Kirby：先代ゲーム&学務用機、Gen4資金調達のため売却済
         - Lenovo Legion Tab Y700 Gen2/TB320FC/Asphalt：先々代ゲーム用機、譲渡予定
         - Lenovo Legion Tab Y700 Gen1/TB-9707F/Pike：先々々代ゲーム用機、諸事情で死亡のため治療中
         - ASUS Zenfone 4/ZE554KL：前々メイン機、TYPE-C充電口が死んでるため修理検討
-        - ASUS Zenfone 9/AI2202：前メイン機、所用で爆発(概念)しAttestationが完全に死んだため封印🔐
+        - ASUS Zenfone 9/AI2202：前メイン機、所用で爆発(概念)しAttestationが完全に死んだため封印
         - Samsung Galaxy S5 Active/SC-02G/Klteactivedcm：前々メイン機、バッテリーが無いため封印中<br>
         
         ##### 入手予定端末
@@ -108,8 +109,8 @@ page_data:
         Homeアイコンを鳥籠に戻すパッチを追加。
         - [treble_app](https://github.com/TrebleDroid/treble_app)<br>
         TB320FC/TB321FUの磁気カバースリーブ機能を有効化するプルリクをぶん投げ
-        - [2019_android_walkman](https://github.com/notcbw/2019_android_walkman/)<br>
-        ~~私に見つかった結果~~、日本語解説の作成など<br>
+        - [2019_android_walkman](https://github.com/monefiera/2019_android_walkman/)<br>
+        ~~私に見つかった結果~~、日本語解説の作成など。元リポジトリ消えたため自炊ビルドをずっと試みています。<br>
 
         #### その他(note記事)
         - [使っているAndroid野良アプリ一覧](https://note.com/forsaken_love02/n/nd42186d4361a)<br>
