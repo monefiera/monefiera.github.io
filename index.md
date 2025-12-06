@@ -42,7 +42,7 @@ img: ":pheoindex.png"
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
 こちらはもね/ふぃえらの基礎情報をいろいろ置いたサイトになっています。<br>
-- Android開発界隈(ROM焼き試験場など)
+- Android開発界隈
 - ゆずりさリスナー界隈(ゆずりさの集い)<br>
 の2つの界隈+αに首を突っ込みながら、毎日を必死に生きています。<br>
 
