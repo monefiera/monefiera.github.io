@@ -71,7 +71,6 @@ page_data:
         - Sony Walkman A-Series 2019/NW-A106：音楽用機
         - LG V30+/L-01K/Joan：音楽用サブ機 ~~、ゆく育専用機~~
         - Xiaomi Redmi 9T/Lime：ROM焼き練習用サブ機→業務用機
-        - Xiaomi 11T/Amber：写真用機
         - Sony Xperia Ace Ⅱ/SO-41B：Pixel Watch導入までFeliCaを担ってもらいました。今は適当なサブ機です。<br>
         
         ##### 休養中/放出済端末
@@ -80,10 +79,12 @@ page_data:
         - Lenovo Legion Tab Y700 Gen1/TB-9707F/Pike：先々々代ゲーム用機、諸事情で死亡のため治療中
         - ASUS Zenfone 4/ZE554KL：前々メイン機、TYPE-C充電口が死んでるため修理検討
         - ASUS Zenfone 9/AI2202：前メイン機、所用で爆発(概念)しAttestationが完全に死んだため封印
-        - Samsung Galaxy S5 Active/SC-02G/Klteactivedcm：前々メイン機、バッテリーが無いため封印中<br>
+        - Samsung Galaxy S5 Active/SC-02G/Klteactivedcm：前々メイン機、バッテリーが無いため封印中
+        - Xiaomi 11T/Amber：旧写真用機、諸事情で友人に貸与中。<br>
         
         ##### 入手予定端末
-        - ASUS Zenfone 13or14?/AI2601?orAI2701?：来たる次世代Zenがコンパクト回帰か、少なくとも大画面辞めたらメインに据えます
+        - Vivo X300/V2515 or V2509A：カメラ用機として、色とか機能が性分に合ってそうなため購入検討中。<br>
+        - ASUS Zenfone 13or14?/AI2601?orAI2701?：~~来たる次世代Zenがコンパクト回帰か、少なくとも大画面辞めたらメインに据えます~~とか言ってましたが[2026年はスマホ出さないようで](https://asus.blog.jp/archives/1083943116.html)⋯
         
         #### Active プロジェクト
         - [Adaway Allow-Hosts](https://github.com/monefiera/adaway-hosts)<br>
@@ -93,6 +94,7 @@ page_data:
         Twitterに戻したpatched apkをベースに、ebテーマ6色+ふぃえら製テーマ4色、計10色のカラーテーマが使えるようにした自炊野良アプリ。<br>
         以前は自分で下記のpikoをパッチしてもらう方式を取っていました。2025年よりcrimera氏謹製apkを~~パチって~~お借りして色塗る自動工程にしてます。<br>
         そのうちカラーパッチを作成(依頼)し、あちらと統合することを検討しています。<br>
+        EOLはしてないですが、ログイン問題が解決するかアプリがアプデしろと騒ぎ出すまでは[Origin Twitter Neo](https://github.com/YuzuMikan404/Origin-Twitter-Neo)に委ねるつもりです。<br>
 
         ##### EOL済みプロジェクト
         - [Lenovo Legion Tab GSI Fix](https://github.com/monefiera/Lenovo-Legion-Tab-GSI-FIX)<br>
