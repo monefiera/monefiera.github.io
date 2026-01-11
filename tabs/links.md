@@ -42,7 +42,7 @@ lng_pair: id_links
 page_data:
   main:
     header: "Links"
-    info: "注意事項<br>・コンタクトのSNS欄も合わせてご参照ください。<br>・すべてのご連絡に返信をお約束するものではございませんのでご了承ください。<br>"
+    info: "注意事項<br>・コンタクトのSNS欄も合わせてご参照ください。<br>・Twitter凍結に伴いDMでのご連絡は停止中ですが、億が一復帰しても受け付けの予定はございません。<br>・すべてのご連絡に返信をお約束するものではございませんので、その旨ご了承ください。<br>"
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
@@ -70,7 +70,7 @@ page_data:
     - type: other_sns
       title: "Bluesky"
       url: "https://bsky.app/profile/forsaken-love02.bsky.social"
-      info: "上記のMisskeyと活動状況はほぼ一緒です。"
+      info: "上記のMisskeyと活動状況はほぼ一緒でしたが、Twitter凍結に伴いちょくちょくいます。"
     - type: other_sns
       title: "Pixiv"
       url: "https://www.pixiv.net/users/72155198"
@@ -105,9 +105,9 @@ page_data:
 
     # Special Thanks
     - type: special_thanks
-      title: "人外"
-      url: "https://twitter.com/02_ningen"
-      info: "私のアイコンを描いてくださった方です。是非ともフォローよろしくお願い致します。"
+      title: "ｶﾅﾁｬﾝ"
+      url: "https://twitter.com/nemuuuuuui_11"
+      info: "主にゆずりさ関連ですが、多方面でお世話になっており腹心に限りなく近い方です。本当にありがとうございます。"
     - type: special_thanks
       title: "四季島モルガン"
       url: "https://www.youtube.com/@morgan_0516"
@@ -115,7 +115,7 @@ page_data:
     - type: special_thanks
       title: "いちゆう(まさかわ)"
       url: "https://twitter.com/Itiyuu_Masakawa"
-      info: "「ゆずりさの集い」共同モデレーター。ゆずりさ周りでは本当にいろいろお世話になってます。"
+      info: "「ゆずりさの集い」共同モデレーター。ゆずりさ周りでは本当にいろいろ助かっております。"
     - type: special_thanks
       title: "Re*Index(ot_inc)"
       url: "https://twitter.com/ot_inc"
