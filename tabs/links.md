@@ -70,7 +70,7 @@ page_data:
     - type: other_sns
       title: "Bluesky"
       url: "https://bsky.app/profile/forsaken-love02.bsky.social"
-      info: "上記のMisskeyと活動状況はほぼ一緒でしたが、Twitter凍結に伴いちょくちょくいます。"
+      info: "実質レーマス日記、Twitter凍結に伴いちょくちょくいます。"
     - type: other_sns
       title: "Pixiv"
       url: "https://www.pixiv.net/users/72155198"
@@ -89,7 +89,7 @@ page_data:
     - type: entertainment
       title: "Zabuu - 質問箱"
       url: "https://zabuu.site/box/1483824905967730693"
-      info: "匿名質問箱、余程答えたくない質問以外は答えてます。"
+      info: "旧匿名質問箱、余程答えたくない質問以外は答えてます。"
     - type: entertainment
       title: "Emotional Chemistry Channel"
       url: "https://www.youtube.com/channel/UCVtxKYGduOp3Aaxvi0LF9bA"
@@ -105,7 +105,7 @@ page_data:
 
     # Special Thanks
     - type: special_thanks
-      title: "ｶﾅﾁｬﾝ"
+      title: "カナチャン"
       url: "https://twitter.com/nemuuuuuui_11"
       info: "主にゆずりさ関連ですが、多方面でお世話になっており腹心に限りなく近い方です。本当にありがとうございます。"
     - type: special_thanks
@@ -123,5 +123,5 @@ page_data:
     - type: special_thanks
       title: "そらりす"
       url: "https://twitter.com/soralis_0912"
-      info: "所属OSS団体「そらいろネットワーク」代表。最近PC周りやAndroid開発などでいろいろお世話になってます。"
+      info: "元所属OSS団体「そらいろネットワーク」代表。最近PC周りやAndroid開発などでいろいろお世話になってます。"
 ---
