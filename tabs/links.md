@@ -99,15 +99,15 @@ page_data:
       url: "https://steamcommunity.com/profiles/76561199387991378"
       info: "もうそろそろ使い始めると思われる、一応持ってるパート2です。"
     - type: entertainment
-      title: "Racing Master"
-      url: "https://www.racingmaster.game/jp/"
-      info: "ID：4066932701、最近ハマってるのでとりあえず設置。しかしフレンド申請にはあまり期待しないでください。"
+      title: "Xbox"
+      url: "https://www.xbox.com/ja-JP/play/user/FIERA%20RACING"
+      info: "Forza Horizon 6にハマってるのでとりあえず設置。しかしフレンド申請にはあまり期待しないでください。"
 
     # Special Thanks
     - type: special_thanks
-      title: "カナチャン"
+      title: "かなちゃん"
       url: "https://twitter.com/nemuuuuuui_11"
-      info: "主にゆずりさ関連ですが、多方面でお世話になっており腹心に限りなく近い方です。本当にありがとうございます。"
+      info: "もねふぃえ最古参フォロワーの1人。主にゆずりさ関連ですが、多方面でお世話になっており腹心に限りなく近い方です。本当にありがとうございます。"
     - type: special_thanks
       title: "四季島モルガン"
       url: "https://www.youtube.com/@morgan_0516"
@@ -117,11 +117,15 @@ page_data:
       url: "https://twitter.com/Itiyuu_Masakawa"
       info: "「ゆずりさの集い」共同モデレーター。ゆずりさ周りでは本当にいろいろ助かっております。"
     - type: special_thanks
+      title: "我ら人民が最大限に尊敬し敬愛する偉大なるみりんくゃん御大同志"
+      url: "https://twitter.com/ymag_h"
+      info: "所属鯖「㍉ウェーブ合同会社」CEO兼「ゆずりさの集い」2代目モデレーター(予定)。ゆずりさの歌声を研究されています、崇めましょう。"
+    - type: special_thanks
       title: "Re*Index(ot_inc)"
       url: "https://twitter.com/ot_inc"
       info: "ソフトウェア専科の翻訳家。私をAndroid界隈の沼地に引きずり込んだ元凶…もとい全てのはじまりの方として列席。"
     - type: special_thanks
       title: "そらりす"
       url: "https://twitter.com/soralis_0912"
-      info: "元所属OSS団体「そらいろネットワーク」代表。最近PC周りやAndroid開発などでいろいろお世話になってます。"
+      info: "PC周りやAndroid開発などでいろいろお世話になってる業者っぽいひと。扱い雑ですが割と信頼してます💦"
 ---
